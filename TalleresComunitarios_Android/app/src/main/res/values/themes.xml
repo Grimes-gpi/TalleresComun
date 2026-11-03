@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Clase1808Zulema" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#0087B2</item>
+        <item name="colorSecondary">#147C69</item>
+        <item name="colorTertiary">#B35B3F</item>
+        <item name="android:statusBarColor">#F5F9FB</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#F5F9FB</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Theme.Clase1808Zulema" parent="Base.Theme.Clase1808Zulema" />
+</resources>
